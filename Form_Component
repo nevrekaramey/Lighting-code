@@ -1,0 +1,10 @@
+<aura:component >
+    <div class="ui">
+    <label>Enter your full name:
+        <input class="focusedInput" type="text" id="fullname"/>
+        </label><br/>
+        <label>Enter your Last name:
+        <input class="focusedInput" type="text" id="lastname"/>
+    </label>
+    </div>
+</aura:component>
